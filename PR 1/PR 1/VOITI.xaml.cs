@@ -24,5 +24,20 @@ namespace PR_1
         {
             InitializeComponent();
         }
+
+        private void SignUp_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void SignIN_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Forget_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

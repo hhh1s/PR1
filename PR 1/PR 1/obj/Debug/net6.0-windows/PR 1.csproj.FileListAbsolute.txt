@@ -1,0 +1,5 @@
+C:\Кузнецов Е 21ис-1\PR 1\PR 1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Кузнецов Е 21ис-1\PR 1\PR 1\obj\Debug\net6.0-windows\REG.g.cs
+C:\Кузнецов Е 21ис-1\PR 1\PR 1\obj\Debug\net6.0-windows\App.g.cs
+C:\Кузнецов Е 21ис-1\PR 1\PR 1\obj\Debug\net6.0-windows\PR 1_MarkupCompile.cache
+C:\Кузнецов Е 21ис-1\PR 1\PR 1\obj\Debug\net6.0-windows\PR 1_MarkupCompile.lref
