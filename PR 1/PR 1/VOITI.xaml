@@ -14,10 +14,10 @@
         <TextBlock Text="Введите пароль:" FontSize="20" Canvas.Left="236" Canvas.Top="167" HorizontalAlignment="Center" VerticalAlignment="Top"/>
         <TextBox Name="Password" HorizontalAlignment="Center" VerticalAlignment="Top" Width="328" Canvas.Left="236" Canvas.Top="199"/>
         
-        <Button Name="SignUp" Content="Войти" Canvas.Left="357" Canvas.Top="237" FontSize="30" Background="PeachPuff" Click="SignUp_Click"/>
+        <Button Name="SignUp" Content="Войти" Canvas.Left="357" Canvas.Top="237" FontSize="30" Background="PeachPuff"/>
         
-        <Button Name="SignIN" Content="Зарегестрироваться" Canvas.Left="260" Canvas.Top="306" FontSize="30" Background="PeachPuff" Click="SignIN_Click"/>
+        <Button Name="SignIN" Content="Зарегестрироваться" Canvas.Left="260" Canvas.Top="306" FontSize="30" Background="PeachPuff" />
         
-        <Button Name="Forget" Content="Забыли пароль" Canvas.Left="328" Canvas.Top="375" FontSize="20" Background="BlueViolet" Click="Forget_Click"/>
+        <Button Name="Forget" Content="Забыли пароль" Canvas.Left="328" Canvas.Top="375" FontSize="20" Background="BlueViolet" />
     </Canvas>
 </Window>

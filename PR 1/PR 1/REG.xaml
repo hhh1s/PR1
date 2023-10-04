@@ -17,6 +17,6 @@
         <TextBlock Text="Введите пароль повторна:" FontSize="20" Canvas.Left="236" Canvas.Top="106" HorizontalAlignment="Center" VerticalAlignment="Center"/>
         <TextBox Name="Password1" HorizontalAlignment="Center" VerticalAlignment="Top" Width="328" Canvas.Left="236" Canvas.Top="144"/>
 
-        <Button Name="SignIN" Content="Зарегестрироваться" Canvas.Left="260" Canvas.Top="233" FontSize="30" Background="PeachPuff" Click="SignIN_Click" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Button Name="SignIN" Content="Зарегестрироваться" Canvas.Left="260" Canvas.Top="233" FontSize="30" Background="PeachPuff"  HorizontalAlignment="Center" VerticalAlignment="Top"/>
     </Canvas>
 </Window>

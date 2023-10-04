@@ -1,5 +1,22 @@
-C:\Кузнецов Е 21ис-1\PR 1\PR 1\obj\Debug\net6.0-windows\MainWindow.g.cs
 C:\Кузнецов Е 21ис-1\PR 1\PR 1\obj\Debug\net6.0-windows\REG.g.cs
 C:\Кузнецов Е 21ис-1\PR 1\PR 1\obj\Debug\net6.0-windows\App.g.cs
 C:\Кузнецов Е 21ис-1\PR 1\PR 1\obj\Debug\net6.0-windows\PR 1_MarkupCompile.cache
 C:\Кузнецов Е 21ис-1\PR 1\PR 1\obj\Debug\net6.0-windows\PR 1_MarkupCompile.lref
+C:\Кузнецов Е 21ис-1\PR 1\PR 1\obj\Debug\net6.0-windows\VOITI.g.cs
+C:\Кузнецов Е 21ис-1\PR 1\PR 1\bin\Debug\net6.0-windows\PR 1.exe
+C:\Кузнецов Е 21ис-1\PR 1\PR 1\bin\Debug\net6.0-windows\PR 1.deps.json
+C:\Кузнецов Е 21ис-1\PR 1\PR 1\bin\Debug\net6.0-windows\PR 1.runtimeconfig.json
+C:\Кузнецов Е 21ис-1\PR 1\PR 1\bin\Debug\net6.0-windows\PR 1.dll
+C:\Кузнецов Е 21ис-1\PR 1\PR 1\bin\Debug\net6.0-windows\PR 1.pdb
+C:\Кузнецов Е 21ис-1\PR 1\PR 1\obj\Debug\net6.0-windows\REG.baml
+C:\Кузнецов Е 21ис-1\PR 1\PR 1\obj\Debug\net6.0-windows\VOITI.baml
+C:\Кузнецов Е 21ис-1\PR 1\PR 1\obj\Debug\net6.0-windows\PR 1.g.resources
+C:\Кузнецов Е 21ис-1\PR 1\PR 1\obj\Debug\net6.0-windows\PR 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Кузнецов Е 21ис-1\PR 1\PR 1\obj\Debug\net6.0-windows\PR 1.AssemblyInfoInputs.cache
+C:\Кузнецов Е 21ис-1\PR 1\PR 1\obj\Debug\net6.0-windows\PR 1.AssemblyInfo.cs
+C:\Кузнецов Е 21ис-1\PR 1\PR 1\obj\Debug\net6.0-windows\PR 1.csproj.CoreCompileInputs.cache
+C:\Кузнецов Е 21ис-1\PR 1\PR 1\obj\Debug\net6.0-windows\PR 1.dll
+C:\Кузнецов Е 21ис-1\PR 1\PR 1\obj\Debug\net6.0-windows\refint\PR 1.dll
+C:\Кузнецов Е 21ис-1\PR 1\PR 1\obj\Debug\net6.0-windows\PR 1.pdb
+C:\Кузнецов Е 21ис-1\PR 1\PR 1\obj\Debug\net6.0-windows\PR 1.genruntimeconfig.cache
+C:\Кузнецов Е 21ис-1\PR 1\PR 1\obj\Debug\net6.0-windows\ref\PR 1.dll
